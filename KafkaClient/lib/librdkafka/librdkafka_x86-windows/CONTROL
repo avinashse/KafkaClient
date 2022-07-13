@@ -1,0 +1,8 @@
+Package: librdkafka
+Version: 1.8.2
+Depends: vcpkg-cmake:x64-windows, vcpkg-cmake-config:x64-windows
+Architecture: x86-windows
+Multi-Arch: same
+Abi: 49ebfe901dc8068a0e563771715df991fa5e157e79db49c45cbacfb785821620
+Description: The Apache Kafka C/C++ library
+Type: Port
